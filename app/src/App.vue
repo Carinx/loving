@@ -160,7 +160,7 @@ html{
 `
             ],
             currentMarkdown: '',
-            fullMarkdown: `Carinx × ruiFang Liu
+            fullMarkdown: `Carinx × jiaFang Liu
 ----
 
 2022年01月15日 14:56 ，我们发起了第一次聊天。  

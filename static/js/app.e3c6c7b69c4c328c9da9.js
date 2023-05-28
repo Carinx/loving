@@ -63,7 +63,7 @@ let getDateDiff = function (startDate, endDate) {
     var dates = Math.abs(startTime - endTime) / (1000 * 60 * 60 * 24);
     return dates;
 };
-document.title += getDateDiff(new Date().getFullYear() + '-' + (new Date().getMonth() + 1) + '-' + new Date().getDate(), '2022-01-15') + 1 + '天';
+document.title += getDateDiff(new Date().getFullYear() + '-' + (new Date().getMonth() + 1) + '-' + new Date().getDate(), '2023-03-08') + 1 + '天';
 /* harmony default export */ __webpack_exports__["default"] = ({
     name: 'app',
     components: {
@@ -76,8 +76,10 @@ document.title += getDateDiff(new Date().getFullYear() + '-' + (new Date().getMo
             currentStyle: '',
             enableHtml: false,
             fullStyle: [`/*
-* Hello，睡眠宝宝👶！
-* 介绍一下俺自己的工作吧！
+* Hello，我的湛江鸡🐣！
+* CYB👩‍❤️‍👨HXY一起度过了难忘的2023.05.23 ~ 2023.05.25。
+* 我也想试着用网页没事记录一下我们曾经一起度过的幸福点点滴滴🤗
+* 让我的乖宝也大概了解一下汕头鸭🦢平时都在捣鼓些什么玩意哈哈哈！
 * 我的职业江湖人称新时代互联网农民工，俗称程序员。
 * 当然逼格高点也可以叫软件开发工程师，啊哈哈哈🤪。
 * 方向是Java后端，以及会一丢丢前端🙄。
@@ -190,50 +192,43 @@ html{
 
 `],
             currentMarkdown: '',
-            fullMarkdown: `Carinx × jiaFang Liu
+            fullMarkdown: `CYB 👩‍❤️‍👨 HXY
 ----
 
-2022年01月15日 14:56 ，我们发起了第一次聊天。  
-已有 \`${getDateDiff(new Date().getFullYear() + '-' + (new Date().getMonth() + 1) + '-' + new Date().getDate(), '2022-01-15') + 1}\` 天
+2023年02月28日，我们在知乎发起了第一次聊天。  
+已有 \`${getDateDiff(new Date().getFullYear() + '-' + (new Date().getMonth() + 1) + '-' + new Date().getDate(), '2023-02-28') + 1}\` 天
 
 重要的日子
 ----
 
-* 每年双十二 🎉
-* 每月4号左右 😯
-* 2022.01.15 14:56 🌹
-* 2022.03.12 20:18 🤞
-* 2022.03.26 ~ 2022.03.27 💕
-* 2022.06.11 💖
-* ……
+* 每年0308 🎉
+* 2023.02.28 😯
+* 中秋节 💖
+* 2023.05.23 ~ 2023.05.25 💕
+* …… 
 
 一起呲过的餐厅
 ----
 
-* 海底捞
+* 萨莉亚
 * ……
 
 一起看过的电影
 ----
 
-1. 《月球陨落》
-2. 《侏罗纪世界3》
+1. 《泰囧》
+2. 《流浪地球2》
 3. ……
 
 一起玩过的地方
 ----
 
-* 珠江临江公园
-* 北京路步行街
-* 体育中心
-* 环贸中心
+* 广州塔 --- 这个真的刚刚好赶上了哈哈哈
+* 海心桥 --- 好难忘那一晚，跟我的乖宝一起手牵手
+* 广州南 --- 至今想起第一次见到的时候，回味无穷
+* 北京路 --- 跟你一起喝的杨枝甘露，好喝~
+* 圣心大教堂
 * ……
-
-一起玩过的游戏
-----
-
-1. 卡丁车(好爽！不过宝宝好像被撞得好惨，最后都不敢去看成绩，hhh🤣)
-2. ……
 
 <br/>
 
@@ -245,16 +240,15 @@ html{
 <br/>
 <br/>
 
->星期六刚好看到下星期一是情人节（第一次提前知晓情人节，em...🤨）,
 >突然想起有这么个挺有趣的项目,
 >就在星期天捣鼓捣鼓，好在顺利地完成了，
->就当做一个特别的礼物送给你吧！
+>就当做一个特别的礼物送给我最爱的乖宝吧mua（づ￣3￣）づ╭❤～
 
 <br/>
 <br/>
 <br/>
 
-***情人节快乐！睡眠宝宝👶！***🎉🎉🎉
+*** 衣宽渐带终不悔，为伊消得人憔悴！***🎉🎉🎉
 
 <br/>
 <br/>
